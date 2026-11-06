@@ -1,0 +1,28 @@
+STUDENT GRADE PREDICTION - RUN INSTRUCTIONS
+
+EASIEST METHOD: GOOGLE COLAB
+1. Open https://colab.research.google.com/
+2. Select File > Upload notebook.
+3. Upload student_grade_prediction.ipynb from this folder.
+4. Keep an internet connection for the first run.
+5. Select Runtime > Run all.
+6. Read all outputs and charts. Do not use assumed metric values.
+7. In Colab, use the Files panel to inspect the plots/ and results/ folders.
+
+LOCAL JUPYTER METHOD
+1. Install Python 3.10 or newer.
+2. Open a terminal in this project folder.
+3. Create/activate a virtual environment (recommended).
+4. Run: python -m pip install -r requirements.txt
+5. Run: jupyter notebook
+6. Open student_grade_prediction.ipynb and run cells from top to bottom.
+
+DATASET
+The notebook downloads the official UCI archive and selects student-mat.csv. If automatic download fails, download the Student Performance ZIP from the official UCI dataset page, extract student-mat.csv, and place it in data/raw/.
+
+OUTPUTS
+- plots/: six PNG charts
+- results/evaluation_metrics.csv
+- results/model_coefficients.csv
+- results/test_predictions.csv
+- results/student_grade_linear_regression.joblib
