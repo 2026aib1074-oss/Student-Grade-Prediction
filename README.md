@@ -38,3 +38,5 @@ The data come from two Portuguese schools and should not automatically be genera
 Cortez, P. (2008). *Student Performance* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5TG7T
 
 Official source: https://archive.ics.uci.edu/dataset/320/student-performance
+## Presentation
+[View Project PPT](https://github.com/2026aib1074-oss/Student-Grade-Prediction/blob/main/AI%20GROUP%2020%20PPT%20%283%29.pptx)
