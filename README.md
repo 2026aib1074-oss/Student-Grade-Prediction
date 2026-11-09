@@ -41,6 +41,8 @@ Official source: https://archive.ics.uci.edu/dataset/320/student-performance
 
 ## Presentation
 [View Project PPT](https://github.com/2026aib1074-oss/Student-Grade-Prediction/blob/main/AI%20GROUP%2020%20PPT%20(3)%20(4).pptx)
+https://github.com/2026aib1074-oss/Student-Grade-Prediction/blob/main/AI%20GROUP%2020%20PPT%20(3)%20(4)%20(2)%20(1)%20(2).pptx
+
 
 ## Team Roles
 | Team Member | Name | Responsibility |
