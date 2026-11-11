@@ -58,3 +58,6 @@ AI tools such as ChatGPT and Google Gemini were used as supplementary resources 
 For example, AI tools were occasionally consulted to review preprocessing approaches and understand evaluation metrics such as R², MAE, and RMSE,.
 
 All suggestions were reviewed by the team, and the final implementation, analysis, and project decisions were verified and finalized by the team.
+
+## Video
+[View Project Video](https://youtu.be/MnfmqOemD2I)
