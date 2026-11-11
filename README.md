@@ -50,3 +50,11 @@ Official source: https://archive.ics.uci.edu/dataset/320/student-performance
 | Member 2 | Rajarshi Ghosh | Presentation (PPT) |
 | Member 3 | Madhav Gupta | GitHub Collaboration and Documentation |
 | Member 4 | Jaipal Nayak | Project Demonstration Video |
+
+## AI Use Disclosure
+
+AI tools such as ChatGPT and Google Gemini were used as supplementary resources during the development of this project. Their assistance was limited to reviewing selected sections of the code, clarifying concepts related to Linear Regression and model evaluation, suggesting improvements to data visualization, and helping refine parts of the project .
+
+For example, AI tools were occasionally consulted to review preprocessing approaches and understand evaluation metrics such as R², MAE, and RMSE,.
+
+All suggestions were reviewed by the team, and the final implementation, analysis, and project decisions were verified and finalized by the team.
